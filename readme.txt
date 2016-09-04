@@ -1,2 +1,2 @@
 readme file:
-	Hello.
+	Hello. My name is Proggy
